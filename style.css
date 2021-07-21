@@ -1,0 +1,24 @@
+body
+{
+    color: blueviolet;
+    background: coral;
+}
+.heading
+{
+    width: 80%;
+    font-size: 30px;
+}
+#camera
+{
+    border: 3px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_person
+{
+    color: white;
+    font-size: 25px;
+}
+.copyright{
+    color: white
+}
